@@ -1,0 +1,37 @@
+{
+    "status": "success",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYjBhOTE5Mi00NzI1LTU2ZmQtOGVjNC01NjBhMGQ3MzRiZTQiLCJpc3MiOiJodHRwczovL2ppZ2dsZS5uZy9hcGkvdjEvYWNjb3VudC9sb2dpbiIsImlhdCI6MTU0ODcwNjM4MiwiZXhwIjoxNTQ5MDY2MzgyLCJuYmYiOjE1NDg3MDYzODIsImp0aSI6IlVNN0xlNVNOZU1zTDZYOTIifQ.VA9_bo6M0Q1CtewF1Hta7D3pjvyjSSz8g7Q3BwE1Vzk",
+    "data": {
+        "id": "ab0a9192-4725-56fd-8ec4-560a0d734be4",
+        "first_name": "Developer",
+        "last_name": "Dev",
+        "name": "Developer Dev",
+        "email": "developer@gmail.com",
+        "account_no": "1901218622",
+        "profile": {
+            "user_id": "ab0a9192-4725-56fd-8ec4-560a0d734be4",
+            "phone": "0809767847478",
+            "photo_url": null,
+            "gender": null,
+            "city_id": null,
+            "state_id": null,
+            "locations": null,
+            "occupation": null,
+            "default_location": null,
+            "created_at": "2019-01-25 11:09:43",
+            "updated_at": "2019-01-25 12:39:43"
+        },
+        "hasVendor": false,
+        "vendors": [],
+        "verified": "No",
+        "active": "Yes",
+        "active_plans": [
+            {
+                "plan_id": "6b30b9df-f081-5c0a-8961-7f3cec95e444",
+                "balance": 12600,
+                "name": "Lite"
+            }
+        ],
+        "created": "2019-01-25 11:09:43 am"
+    }
+}
